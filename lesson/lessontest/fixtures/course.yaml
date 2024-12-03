@@ -1,0 +1,17 @@
+- model: lessontest.course
+  pk: 1
+  fields:
+    cid: 1
+    cn: tee
+
+- model: lessontest.course
+  pk: 2
+  fields:
+    cid: 2
+    cn: teee    
+
+- model: lessontest.course
+  pk: 3
+  fields:
+    cid: 
+    cn: addsad        
